@@ -1,6 +1,11 @@
 
 # Rocket Academy Leetcode Template
 
+## Requirements
+- Have `node` and `npm` installed
+- If you do not have those installed:
+    - install node and npm here https://nodejs.org/en/download/
+
 ## Setup
 - `npm install`
 
